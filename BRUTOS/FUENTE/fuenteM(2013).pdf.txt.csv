@@ -1,0 +1,33 @@
+Estado,Salud,IMSS-Ord,ISSSTE,IMSS-Op,DIF,PEMEX,SEDENA,SEMAR,Otras,Total
+Aguascalientes,967,11,3,S.R.,0,S.R.,0,S.R.,1,982
+Baja California,22,33,1,4,S.R.,S.R.,0,0,3,63
+Baja California Sur,16,5,3,S.R.,S.R.,S.R.,0,0,S.R.,24
+Campeche,9,14,1,3,0,0,0,0,2,29
+Coahuila,21,72,0,5,0,S.R.,0,S.R.,2,100
+Colima,4764,1679,32,S.R.,0,S.R.,9,18,71,6573
+Chiapas,64,47,8,13,S.R.,1,0,0,3,136
+Chihuahua,60,30,5,65,S.R.,S.R.,1,S.R.,20,181
+Distrito Federal,217,8,19,0,0,0,0,0,17,261
+Durango,3974,18,0,664,0,S.R.,0,0,2,4658
+Guanajuato,10179,2959,224,0,S.R.,24,49,S.R.,1610,15045
+Guerrero,29105,1405,656,254,S.R.,S.R.,54,5,0,31479
+Hidalgo,88,0,0,7,0,0,0,S.R.,0,95
+Jalisco,19814,5350,83,0,0,0,11,0,2276,27534
+México,5318,56,8,2,2,S.R.,2,S.R.,192,5580
+Michoacán,8400,3195,405,5279,S.R.,S.R.,0,10,S.R.,17289
+Morelos,14520,2177,488,0,S.R.,S.R.,21,S.R.,S.R.,17206
+Nayarit,4874,1409,91,2427,3,S.R.,0,0,0,8804
+Nuevo León,24,36,0,0,S.R.,0,0,S.R.,8,68
+Oaxaca,1282,57,73,1045,0,0,3,9,3,2472
+Puebla,4052,389,31,1992,0,0,0,S.R.,31,6495
+Querétaro,1007,1516,66,0,1,S.R.,0,S.R.,26,2616
+Quintana Roo,28,13,8,S.R.,S.R.,S.R.,0,0,0,49
+San Luis Potosí,59,44,1,30,S.R.,0,0,S.R.,7,141
+Sinaloa,1900,898,72,1170,1,0,5,6,393,4445
+Sonora,1503,701,33,0,S.R.,S.R.,0,7,116,2360
+Tabasco,5,9,1,S.R.,S.R.,0,0,0,3,18
+Tamaulipas,97,83,0,16,3,1,1,0,0,201
+Tlaxcala,10,12,1,0,0,S.R.,0,S.R.,0,23
+Veracruz,56,40,2,9,0,0,0,0,0,107
+Yucatán,1,7,0,7,0,S.R.,0,0,0,15
+Zacatecas,1317,67,5,673,0,S.R.,6,S.R.,0,2068

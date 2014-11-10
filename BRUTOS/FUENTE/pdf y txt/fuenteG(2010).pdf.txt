@@ -1,0 +1,47 @@
+                                                            Casos registrados en el Sistema de Notificación Semanal
+                                        Casos probables de Intoxicación por picadura de alacrán (T63.2, X22) por fuente de notificación
+                                                                        Estados Unidos Mexicanos 2010
+                                                                               Población General
+                                                                                                                 Institución
+                                                                                                                                                                                                                  Total
+             Estado                     Salud           IMSS-Ord             ISSSTE            IMSS-Op              DIF              PEMEX              SEDENA             SEMAR                Otras
+Aguascalientes                         1 986                88                  0                S/R                  0                S/R                  0                S/R                  5               2 079
+Baja California                          41                 66                  1                  0                S/R                S/R                  0                  0                  8                116
+Baja California Sur                      51                 31                  1                S/R                S/R                S/R                  0                  0                S/R                 83
+Campeche                                 39                 30                  7                  6                  0                  0                  0                  1                  5                 88
+Coahuila                                 80                162                  5                 13                  0                S/R                  0                S/R                  5                265
+Colima                                 7 611              2 900                72                S/R                  0                S/R                  2                 60                 63               10 708
+Chiapas                                 112                 97                 56                 33                S/R                  0                  0                  4                 11                313
+Chihuahua                               132                101                 10                118                S/R                S/R                  0                S/R                 36                397
+Distrito Federal                        417                 16                 79                  0                  1                  0                 12                  1                 16                542
+Durango                                5 707               156                  8               1 078                 0                S/R                  6                S/R                 10               6 965
+Guanajuato                             22 429              618                295                  0                S/R                 52                 17                S/R               5 839              29 250
+Guerrero                               40 593             5 680              1 330                 1                S/R                S/R                 62                 52                  5               47 723
+Hidalgo                                 144                  0                  0                 22                  0                  0                  0                S/R                  4                170
+Jalisco                                37 180             9 993               129                  1                  0                  0                 20                 13               4 912              52 248
+México                                 7 743               128                 16                  0                 28                S/R                  2                S/R                362               8 279
+Michoacán                              16 697             6 039               966               8 107               S/R                S/R                 111                25                S/R               31 945
+Morelos                                25 087             4 944               766                  2                S/R                S/R                 143               S/R                S/R               30 942
+Nayarit                                8 433              1 460               165               3 541                34                S/R                  2                  2                  2               13 639
+Nuevo León                               48                140                  1                  0                S/R                  0                  0                S/R                  5                194
+Oaxaca                                 3 077               203                224               1 967                 3                  2                  7                  5                  5               5 493
+Puebla                                 10 681             1 087                61               4 072                 0                  0                  0                S/R                 48               15 949
+Querétaro                              1 532              3 070               143                  0                 13                S/R                  1                S/R                 78               4 837
+Quintana Roo                             58                117                 14                S/R                S/R                S/R                  1                  0                S/R                190
+San Luis Potosí                         117                 50                  3                 55                S/R                  3                  0                S/R                  5                233
+Sinaloa                                3 558              1 965               194               2 403                 9                  0                  5                 15                667               8 816
+Sonora                                 2 776              1 072               126                  0                S/R                S/R                  1                  8                259               4 242
+Tabasco                                  17                 31                  3                S/R                S/R                  0                  0                  0                  2                 53
+Tamaulipas                              161                 83                  0                 26                  0                  0                  0                  0                  2                272
+Tlaxcala                                 52                 11                  0                  0                  0                S/R                  0                S/R                  0                 63
+Veracruz                                107                 97                  0                 31                  0                  1                  0                  6                  0                242
+Yucatán                                  10                  2                  4                 50                  0                S/R                  0                  0                  4                 70
+Zacatecas                              2 613               122                 11               1 001                 0                S/R                  4                S/R                  3               3 754
+TOTAL GLOBAL                            199 289             40 559              4 690             22 527              88                   58                396                192              12 361             280 160
+FUENTE: SINAVE/DGE/Salud/Sistema de notificación semanal de casos nuevos/Acceso al cierre de 2010
+A/N= Ausencia de notificación
+S/R= Sin representación de la institución en la entidad federativa
+Nota:
+El cierre del sistema de notificación semanal corresponde a los casos que se registraron como sospecha diagnóstica en apego al criterio del médico tratante que otorga consulta de primera vez. El Sistema no realiza
+seguimiento para confirmación o descarte, y refleja la intensidad con la que se buscan los casos.
+

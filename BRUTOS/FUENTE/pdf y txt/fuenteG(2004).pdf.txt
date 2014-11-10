@@ -1,0 +1,41 @@
+                             Casos de Intoxicación por picadura de alacrán (T63.2, X22) por fuente de notificación
+                                                                        Estados Unidos Mexicanos
+                                                                                  2004
+                                                                            Población General
+                                                                                             Fuente de notificación
+          Estado               SALUD         IMSS-ORD         ISSSTE         IMSS-OP           DIF           PEMEX    SEDENA   SEMAR   OTRAS   Total
+Aguascalientes                  2772            27               3               0               0              0       0        0        0    2802
+Baja California                  27             56               4               2               0              0       0        0        2     91
+Baja California Sur              76              0              13               0               0              0       1        0        0     90
+Campeche                         16              3               6               4               0              0       0        0        3     32
+Coahuila                         31             36               2              11               0              0       0        0       44     124
+Colima                          7106           3212             112              0               0              0      11       97       102   10640
+Chiapas                          131             6              27              35               0              0      19        0        8     226
+Chihuahua                        158            102              0              111              0              0       0        0       39     410
+Distrito Federal                 261            21              63               0               0              0       0        3        0     348
+Durango                         4369            24              18              828              0              0       4        0        0    5243
+Guanajuato                      11577          5829             295              0               0              0      74        0      5479   23254
+Guerrero                        25634          2136             830              0               0              0      234      83        4    28921
+Hidalgo                          214             0               1              40               0              0       0        0        5     260
+Jalisco                         31626          12848            117              0               3             10      180       1      3164   47949
+México                          4990            22              18               0               3              0       2        0       284   5319
+Michoacán                       13936          2669             716            6502              0              0       0       24        0    23847
+Morelos                         18005          6484            1070              0               0              0       0        0        0    25559
+Nayarit                         9295           1699             81             3390              5              0      126       0       46    14642
+Nuevo León                       40             171              0               0               0              0       0        0       66     277
+Oaxaca                          2376            114             94             1361              0              4      10       26        3    3988
+Puebla                          9976           1234             137            3428              0              0       1        0       79    14855
+Querétaro                        930           2881             37               0               0              0       0        0       36    3884
+Quintana Roo                     35             42              11               0               0              0       0        0        0     88
+San Luis Potosí                  80             184              3              51               0              2       0        0        5     325
+Sinaloa                         3380           1577             147            2183             30              0      26       18       802   8163
+Sonora                          3816           1487             72               0               0              0      15        0       229   5619
+Tabasco                          26              0               1               0               0              1       0        0        0     28
+Tamaulipas                       169            11               0              42               0              7       9        0       148    386
+Tlaxcala                         38              9               0               0               0              0       0        0        0     47
+Veracruz                         114            66               3              27               0              0       2        3        0     215
+Yucatán                          14              1               0              15               0              0       0        2        1     33
+Zacatecas                       1841            142              6              544              0              0       1        0        0    2534
+TOTAL GLOBAL                   153059           43093            3887           18574            41             24     715      257    10549   230199
+FUENTE : Sistema Único de Información para la Vigilancia Epidemiológica/Dirección General de Epidemiología/ SSA
+

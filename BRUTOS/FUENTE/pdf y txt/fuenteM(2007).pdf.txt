@@ -1,0 +1,42 @@
+                             Casos de Intoxicación por picadura de alacrán (T63.2, X22) por fuente de notificación
+                                                                       Estados Unidos Mexicanos
+                                                                                 2007
+                                                                               Masculino
+                                                                                            Fuente de notificación
+          Estado              SALUD         IMSS-ORD         ISSSTE         IMSS-OP          DIF           PEMEX     SEDENA   SEMAR   Otras   Total
+Aguascalientes                   930              9              1            N.A.             0             N.A.        0     N.A.      0      940
+Baja California                   16             27               0              2           N.A.            N.A.        0       0       20      65
+Baja California Sur               46              4               6           N.A.           N.A.            N.A.        0       1     N.A.      57
+Campeche                          8               2              0              2              0               0         1       0       1       14
+Coahuila                          23             40               2              8             0             N.A.        1     N.A.       4      78
+Colima                         3 962           1 263            47            N.A.             0             N.A.        4      30       29    5 335
+Chiapas                           61             15              14             27           N.A.              0         1      18        7     143
+Chihuahua                         76             44               1             66           N.A.            N.A.        0     N.A.       4     191
+Distrito Federal                 142             13             30              0              2               0         7       0       8      202
+Durango                        2 616             89              2             439             0             N.A.        5     N.A.       0    3 151
+Guanajuato                     6 314           4 559            106              1           N.A.             15        21     N.A.   3 824   14 840
+Guerrero                       15 737          2 821            369              0           N.A.            N.A.       79       9        0   19 015
+Hidalgo                           44              0               1              9             0               0         0     N.A.       1      55
+Jalisco                        19 655          5 546             81              0             0               0        56       3    2 507   27 848
+México                         2 990             21              2               1             1             N.A.        1     N.A.     150    3 166
+Michoacán                      8 543           1 276            355           3 457          N.A.            N.A.       21       9     N.A.   13 661
+Morelos                        12 342          3 367            636             11           N.A.            N.A.       47     N.A.    N.A.   16 403
+Nayarit                        5 557            937             76            2 066            4             N.A.       56       0       20    8 716
+Nuevo León                        26             43               0              0             0               0         0     N.A.      11      80
+Oaxaca                         1 401             74             72             738             0               3         4       9       2     2 303
+Puebla                         4 350            486             60            2 031            0               0         1     N.A.      32    6 960
+Querétaro                        556           1 092            45              0              1             N.A.      N.A.    N.A.     45    1 739
+Quintana Roo                      22             21               6           N.A.           N.A.            N.A.        1       1     N.A.      51
+San Luis Potosí                   53             38               3             34           N.A.              0         0     N.A.       3     131
+Sinaloa                        1 545            590             61            1 042            1               1        15       7      357    3 619
+Sonora                         1 485            414             31               0           N.A.            N.A.        9       5       83    2 027
+Tabasco                           10              5               1           N.A.           N.A.              0         2       0        2      20
+Tamaulipas                        82             31               8              9             0               1         2       1        0     134
+Tlaxcala                          16             10               0              0             0             N.A.        0     N.A.       0      26
+Veracruz                          72             59               2             25             0               0         1       0     N.A.     159
+Yucatán                           5               9              0              9              0             N.A.        0       1       0       24
+Zacatecas                      1 393             41              4             474             0             N.A.        9     N.A.       1    1 922
+TOTAL GLOBAL                    90 078            22 946           2 022        10 451           9             20      344      94    7 111   133 075
+N.A.= No aplica (no hay presencia de la institución en la entidad federativa).
+FUENTE : Sistema Único de Información para la Vigilancia Epidemiológica/Dirección General de Epidemiología/SSA
+

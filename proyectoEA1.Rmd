@@ -1,0 +1,271 @@
+---
+title: "ProyectoEA1"
+author: "José Luis Palomino 124989, Aurora"
+date: "Monday, November 03, 2014"
+output: html_document
+---
+
+
+
+```{r}
+paquetes.utilizados <- c("reshape2", "tidyr", "xtable", "knitr", "dplyr", "lubridate", "ggplot2")
+paquetes.instalados <- rownames(installed.packages())
+paquetes.por.instalar <- setdiff(paquetes.utilizados, paquetes.instalados)
+
+```
+
+
+
+
+# Instala los paquetes faltantes.
+
+```{r}
+if (length(paquetes.por.instalar) != 0 ) 
+install.packages(paquetes.por.instalar,
+repos = "http://cran.us.r-project.org"))
+
+```
+
+
+# Carga los paquetes a utilizar.
+
+```{r}
+
+lapply(paquetes.utilizados, library, character.only = TRUE)
+```
+
+
+
+###DATOS PROCESADOS POR GRUPOS DE EDAD
+##Definimos el cache
+```{r Ajustes, echo = FALSE, message = FALSE, results = 'hide'}
+directorio <- "C:/Users/HP/Desktop/EA1/BRUTOS/EDAD"
+setwd(directorio)
+knitr::opts_knit$set(root.dir = directorio)
+# Opciones del documento.
+knitr::opts_chunk$set(fig.path = "FIGURAS/Figuras_", fig.align = 'center',
+fig.width = 12, fig.height = 8,
+cache.path = "CACHE/Cache_", cache = TRUE,
+eval = TRUE,
+warning = FALSE, message = FALSE,
+echo = TRUE,
+comment = NA)
+```
+#Hacemos la organización de los datos
+```{r}
+sexo<- c("F","M","G")
+año<- c("2003", "2004", "2005", "2006", "2007", "2008", "2009", "2010", "2011","2012","2013")
+name<- ""
+Datos.Edad<-data.frame()
+for (j in 1:3){ 
+  for(i in 1:11){
+    name <- sprintf("grupoedad%s(%s).pdf.txt.csv", sexo[j], año[i])
+    
+    tablaEdad <- read.csv(name,check.names=FALSE)
+    tail(tablaEdad)
+    tablaEdad$año=as.factor(año[i])
+    tablaEdad$sexo=as.factor(sexo[j])
+    str(tablaEdad)
+    sapply(tablaEdad,class)
+    auxEdad<-Datos.Edad
+    Datos.Edad <- gather(data = tablaEdad,
+                        key = "cortes.edad",
+                        value = "numerocasos",
+                        2:14)
+    Datos.Edad<- rbind(auxMes,Datos.Mes)
+}}
+Datos.Edad
+
+```
+##Guardamos la tabla ya limpia y organizada en formato largo
+```{r}
+write.table(Datos.Edad, file = "C:/Users/HP/Desktop/EA1/PROCESADOS/Edad.csv", sep = ",", row.names = FALSE)
+```
+## Leemos unicamente los datos de los Estados (omitiendo los de "TOTAL GLOBAL")
+```{r}
+Datos.Edad.Final <-subset(Datos.Edad, Estado != "TOTAL GLOBAL")
+Datos.Edad.Final
+```
+
+###DATOS PROCESADOS POR MES
+##Definimos el cache
+```{r Ajustes, echo = FALSE, message = FALSE, results = 'hide'}
+directorio  <- ("C:/Users/HP/Desktop/EA1/BRUTOS/MES")
+setwd(directorio)
+knitr::opts_knit$set(root.dir = directorio)
+# Opciones del documento.
+knitr::opts_chunk$set(fig.path = "FIGURAS/Figuras_", fig.align = 'center',
+                      fig.width = 12, fig.height = 8,
+                      cache.path = "CACHE/Cache_", cache = TRUE,
+                      eval = TRUE,
+                      warning = FALSE, message = FALSE,
+                      echo = TRUE,
+                      comment = NA)
+```
+#Hacemos la organización de los datos
+```{r}
+sexo<- c("F","M","G")
+año<- c("2003", "2004", "2005", "2006", "2007", "2008", "2009", "2010", "2011","2012","2013")
+name<- ""
+Datos.Mes<-data.frame()
+for (j in 1:3){ 
+  for(i in 1:11){
+    name <- sprintf("CASOSPORMES%s(%s).pdf.txt.csv", sexo[j], año[i])
+    
+    tablaMes <- read.csv(name,check.names=FALSE)
+    tail(tablaMes)
+    tablaMes$año=as.factor(año[i])
+    tablaMes$sexo=as.factor(sexo[j])
+    str(tablaMes)
+    sapply(tablaMes,class)
+    auxMes<-Datos.Mes
+    Datos.Mes <- gather(data = tablaMes,
+                        key = "Mes",
+                        value = "numerocasos",
+                        3:14)
+    Datos.Mes<- rbind(auxMes,Datos.Mes)
+}}
+Datos.Mes
+
+```
+##Guardamos la tabla ya limpia y organizada en formato largo
+```{r}
+write.table(Datos.Mes, file = "C:/Users/HP/Desktop/EA1/PROCESADOS/mes.csv", sep = ",", row.names = FALSE)
+```
+
+##DATOS PROCESADOS POR FUENTE DE NOTIFICACION
+```{r Ajustes, echo = FALSE, message = FALSE, results = 'hide'}
+directorio <- "C:/Users/HP/Desktop/EA1/BRUTOS/FUENTE"
+setwd(directorio)
+knitr::opts_knit$set(root.dir = directorio)
+# Opciones del documento.
+knitr::opts_chunk$set(fig.path = "FIGURAS/Figuras_", fig.align = 'center',
+fig.width = 12, fig.height = 8,
+cache.path = "CACHE/Cache_", cache = TRUE,
+eval = TRUE,
+warning = FALSE, message = FALSE,
+echo = TRUE,
+comment = NA)
+```
+#Hacemos la organización de los datos
+```{r}
+sexo<- c("F","M","G")
+año<- c("2003", "2004", "2005", "2006", "2007", "2008", "2009", "2010", "2011","2012","2013")
+name<- ""
+Datos.Fuente<-data.frame()
+for (j in 1:3){ 
+  for(i in 1:11){
+    name <- sprintf("fuente%s(%s).pdf.txt.csv", sexo[j], año[i])
+    
+    tablaFuente <- read.csv(name,check.names=FALSE)
+    tail(tablaFuente)
+    tablaFuente$año=as.factor(año[i])
+    tablaFuente$sexo=as.factor(sexo[j])
+    str(tablaFuente)
+    sapply(tablaFuente,class)
+    auxFuente<-Datos.Fuente
+    Datos.Fuente <- gather(data = tablaFuente,
+                        key = "Institución",
+                        value = "numerocasos",
+                        2:10)
+    Datos.Fuente<- rbind(auxFuente,Datos.Fuente)
+}}
+Datos.Fuente
+
+```
+##Guardamos la tabla ya limpia y organizada en formato largo
+```{r}
+write.table(Datos.Fuente, file = "C:/Users/HP/Desktop/EA1/PROCESADOS/Fuente.csv", sep = ",", row.names = FALSE)
+````
+
+#GRAFICAS
+
+```{r Grafica1Fuente, echo=FALSE}
+
+library(ggplot2)
+Mes <- read.csv("C:/Users/HP/Desktop/EA1/PROCESADOS/mes.csv", header = TRUE)
+Fuente <- read.csv("C:/Users/HP/Desktop/EA1/PROCESADOS/Fuente.csv", header = TRUE)
+Fuente <- within(Fuente,
+                       {
+                         numerocasos <- as.numeric(numerocasos)
+                       })
+
+with (Fuente, hist(numerocasos,col "blue",
+                   family = "Times New Roman", font = 3,
+                   main = "D",
+                   xlab = "kj",
+                   ylab = "ER"))
+
+hist(mes$numerocasos, col="blue",border="white",main"HISTOGRAMA DEL NUMERO DE CASOS", 
+    xlab="Numero de casos"
+     ylab="Frecuencia", 
+     xlim=c(0, 16000), ylim=c(0,12000))
+
+hist(Fuente$numerocasos,col ="red", border = "black")
+plot(Fuente$Total)
+
+
+ggplot(Fuente$año,
+       aes(año,No.Picaduras,group=Institucion))
++geom_line(aes(colour=Institucion)) 
++facet_wrap(~Institucion,ncol=3)
++geom_point(aes(colour=Institucion))
++labs(title="N??mero de picaduras reportadas por institucion (2003-2013)",x="Periodo",y="N??mero de picaduras")
+theme_bw()
+theme(axis.text.x=element_text(angle=90))
+theme(legend.position="none",strip.text = element_text(face = "bold"),axis.text.x = element_text(size=15), axis.text.y = element_text(size=15),strip.background = element_blank(),axis.text = element_text(colour=grey(.50)),axis.ticks=element_line(colour=grey(.80)),axis.title = element_text(colour=grey(.45), size=12), plot.title = element_text(size =20))
+
+```
+```{r Grafica2Fuente, echo=FALSE}
+
+ggplot(INSTITUCION.PERIODO,aes(x=Institucion,y=No.Picaduras,group=Periodo,fill=Institucion)) +geom_bar(stat="identity",aes(colour=Institucion))+facet_wrap(~Periodo,ncol=3)+theme_bw()+theme(axis.text.x=element_text(angle=90,size=10),strip.text = element_text(face = "bold"),strip.background = element_blank(),axis.text = element_text(colour=grey(.50)),axis.ticks=element_line(colour=grey(.80)),axis.text.x = element_text(size=15), axis.text.y = element_text(size=15),axis.title = element_text(colour=grey(.45)))+labs(title="Numero de picaduras por Institucion reportadas cada periodo",x="Institucion",y="Numero de Picaduras", plot.title = element_text(size =20))
+
+
+```{r}
+Fuente <- read.csv("C:/Users/HP/Desktop/EA1/PROCESADOS/Fuente.csv", header = TRUE)
+str(Fuente)
+Fuente <- within(Fuente,
+                       {
+                         numerocasos <- as.numeric(numerocasos)
+                       })
+str(Fuente)
+hist(Fuente$sexo, breaks = 32)
+summary(Fuente)
+head(Datos.Fuente)
+dim(Fuente)
+int()
+
+min(Fuente$numerocasos, na.rm =TRUE)
+max(Fuente$numerocasos,na.rm=TRUE)
+
+
+tail(Fuente)
+
+instituciones  <- c("SALUD","IMSS-ORD","ISSTE","IMSS-OP","DIF","PEMEX","SEDENA","SEMAR","OTRAS")
+
+
+
+Fuente$año  <-  POSIXct(Fuente$año)
+par(mfrow=c(4,8), mar = c(0,0,1,0), oma = c(0,0,1.2,0))
+
+    
+for(año in 2003:2013)
+  
+  {
+    Fuente.año  <-  subset(Fuente,  año == año) 
+    with(Fuente.año,
+         hist(esc,
+              breaks = seq(0,15), col = "blue", border = "White", main = as.character(año),
+              xlab ="Número de casos",
+              ylab = "Frecuencia",
+              xlim = c(0,15), ylim = c(0,1000)))
+    }
+
+x<-unclass()
+  
+with(Fuente.inst, 
+     hist(esc, 32, col="blue", border="white", 
+          main="Histograma por picadura de alacran", 
+          xlab="numero de casos"
+          ylab="Frecuencia"))
+    

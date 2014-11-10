@@ -1,0 +1,42 @@
+                            Casos nuevos de Intoxicación por picadura de alacrán (T63.2, X22) por fuente de notificación
+                                                          Estados Unidos Mexicanos 2011
+                                                                Población Femenina
+                                                                                 Institución
+       Estado                                                                                                                       Total
+                          Salud        IMSS-Ord         ISSSTE         IMSS-Op       DIF       PEMEX    SEDENA   SEMAR     Otras
+Aguascalientes           1 040             64               1             S.R.         0         S.R.       0      S.R.       0    1 105
+Baja California             19             36               1               9        S.R.        S.R.       0        0        2      67
+Baja California Sur         47             18               4             S.R.       S.R.        S.R.       0        0      S.R.     69
+Campeche                    29             12              11               3          0           0        0        0        4      59
+Coahuila                    32             73               0               4          0         S.R.       0      S.R.       0     109
+Colima                   3 708           1 456             28             S.R.         0         S.R.       0       36       37    5 265
+Chiapas                     77             88              25              14        S.R.          0        0        2        2     208
+Chihuahua                   95             58               3              74        S.R.        S.R.       0      S.R.      36     266
+Distrito Federal           215             12              32               1          1           1        1        0       28     291
+Durango                  3 473             70               4             485          0         S.R.       0      S.R.       1    4 033
+Guanajuato               13 080           588             224               0        S.R.         24       25      S.R.    2 602   16 543
+Guerrero                 21 994          3 218            782               1        S.R.        S.R.      52       19        0    26 066
+Hidalgo                    114              2               0              23          0           0        0      S.R.       0     139
+Jalisco                  18 155          4 541             70               1          0           0        5        7     3 009   25 788
+México                   4 732             45               6               2          9         S.R.       0      S.R.     235    5 029
+Michoacán                7 891           3 145            375            4 743       S.R.        S.R.      26        5      S.R.   16 185
+Morelos                  15 150          2 577            631               1        S.R.        S.R.      30      S.R.     S.R.   18 389
+Nayarit                  3 856            800             116            1 502         2         S.R.       5        1        1    6 283
+Nuevo León                  32             74               0               0        S.R.          0        0      S.R.      17     123
+Oaxaca                   1 645            105              89            1 189         0           0        2        3        4    3 037
+Puebla                   5 482            509              27            1 986         0           0        0      S.R.      35    8 039
+Querétaro                1 199           1 730             75               0          1         S.R.       1      S.R.      46    3 052
+Quintana Roo                50             54              28             S.R.       S.R.        S.R.       0        0        3     135
+San Luis Potosí             78             22               5              32        S.R.          2        0      S.R.       9     148
+Sinaloa                  2 259           1 293            117            1 279         0           0        7       12      316    5 283
+Sonora                   2 143           1 040            110               0        S.R.        S.R.       3        2      122    3 420
+Tabasco                     15             14               1             S.R.       S.R.          0        0        0        7      37
+Tamaulipas                 114             63               0              25          0           1        0        0        2     205
+Tlaxcala                    30              8               0               0          0         S.R.       0      S.R.       0      38
+Veracruz                    70             43               2              29          0           0        4        5        0     153
+Yucatán                      1             16               4              16          0         S.R.       0        0        8      45
+Zacatecas                1 325             43               3             506          0         S.R.       0      S.R.       0    1 877
+TOTAL GLOBAL            108 150         21 817           2 774         11 925        13          28       161      92      6 526   151 486
+FUENTE: SUIVE/DGE/Secretaría de Salud/Estados Unidos Mexicanos- 2011
+S.R.= Sin representación de la institución en la entidad federativa
+

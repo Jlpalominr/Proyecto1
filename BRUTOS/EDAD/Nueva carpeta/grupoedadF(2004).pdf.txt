@@ -1,0 +1,41 @@
+                                                Casos de Intoxicación por picadura de alacrán (T63.2, X22) por grupos de edad
+                                                                                       Estados Unidos Mexicanos
+                                                                                                 2004
+                                                                                               Femenino
+                                                                                                                 Grupos de edad
+          Estado                <1            1-4           5-9          10 - 14       15 - 19       20 - 24         25 - 44      45 - 49   50 - 59   60 - 64   65 y +   Ign.   Total
+Aguascalientes                   2             54            62            93            96            88              177          25         37       19         50      0      703
+Baja California                  7             3             3             3             5              3               13           4         6         1          2      0       50
+Baja California Sur              0             0             2             3             7              5               14           4         8         2          3      0       48
+Campeche                         0             0             0             5             4              2               8            0          0        0          1      0       20
+Coahuila                         0             6             4             3             7              7               21           2         3         1          0      0       54
+Colima                          27            304           376           527           585           581             1590         231       292       130       264      12     4919
+Chiapas                          2             8             4             8             7              13              31           9         8         3          6      0       99
+Chihuahua                        3             16            20            18            20            20              74            7         19       13         14      0      224
+Distrito Federal                 0             15            10            28            18            28              65           11         7         2         6       0      190
+Durango                         15            192           249           279           324           294             732          123       171        74        118      0     2571
+Guanajuato                      92            865           1152          1405          1576          1476            3731         560       749       287       501      10    12404
+Guerrero                        134           1366          1731          1733          1579          1354            3535         694       888       431       749      11    14205
+Hidalgo                          0             4             14            17            12            12               54           9         12        6         4       1      145
+Jalisco                         179           1812          2187          2752          2711          2404            6794         1019      1563      660       1238    121    23440
+México                          26            320           369           341           289           225             625           97        112       69        120      4     2597
+Michoacán                       135           1090          1423          1478          1455          1217            2917         512       674       290       568     131    11890
+Morelos                         137           1126          1295          1453          1303          1331            3051         611       774       341       623       9    12054
+Nayarit                         54            541           715           719           705           664             1697         345       407       184       294      112    6437
+Nuevo León                       0             7             4             12            9             16               44           9         18        3         6       54     182
+Oaxaca                          14            157           240           276           234           227             561          114       178        83        212      1     2297
+Puebla                          43            555           741           950           834           774             1760         378       557       263       625      332    7812
+Querétaro                       42            147           113           207           159           245             750           79        129       43        82       0     1996
+Quintana Roo                     0             2             1             7             2              3               23           2         2         0          1      0       43
+San Luis Potosí                  0             7             6             14            16            18               66          13         30        5         12      1      188
+Sinaloa                         35            370           349           413           477           444             1301         197       323       119       278       2     4308
+Sonora                          36            336           322           317           310           341             926          200       229       109        155      1     3282
+Tabasco                          0             2             0             2             2              9               2            0          0        0          0      0       17
+Tamaulipas                       1             7             17            23            16            17               60           8         14        8         10      94     275
+Tlaxcala                         0             2             0             16            1              2               5            0         0         1          1      0       28
+Veracruz                         7             5             11            7             13            13               41          12         8         8         9       1      135
+Yucatán                          0             1             0             2             8              4               7            0          2        0          1      0       25
+Zacatecas                        8             88           128           142           154            116             300          52        95        55        112      1     1251
+TOTAL GLOBAL                    999           9408           11548         13253        12938         11953          30975        5327      7315      3210      6065     898    113889
+FUENTE : Sistema Único de Información para la Vigilancia Epidemiológica/Dirección General de Epidemiología/SSA
+

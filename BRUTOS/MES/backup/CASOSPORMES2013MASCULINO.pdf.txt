@@ -1,0 +1,41 @@
+                         Casos nuevos de Intoxicación por picadura de alacrán (T63.2, X22) por mes de ocurrencia
+                                                              Estados Unidos Mexicanos 2013
+                                                                          Hombres
+
+         Estado                                                                           Mes de ocurrencia
+                                Total       Ene        Feb       Mar      Abr     May         Jun      Jul     Ago       Sep     Oct      Nov      Dic
+Aguascalientes                     982        59         35        72      98      153          90     116       76      102      110       42       29
+Baja California                     63         0          4         2       2        6           9      10        6       11        9        4        0
+Baja California Sur                 24         0          1         2       2        1           4       3        4        3        0        2        2
+Campeche                            29         0          1         4       2        3           7       3        0        2        5        2        0
+Coahuila                           100         2          1         2       5       19          18      12       16       20        5        0        0
+Colima                           6 573       527        347       372     413      558         552     645      566      671      903      556      463
+Chiapas                            136        14          9        14      14       26           8      12       11        4        7        9        8
+Chihuahua                          181         4          2         6       8       25          18      38       20       19       26       10        5
+Distrito Federal                   261        18         15        12      28       28          28      31       28       20       20       23       10
+Durango                          4 658       148        184       310     424      746         667     582      447      374      377      232      167
+Guanajuato                      15 045       699        858     1 038   1 787    2 366       1 668   1 527    1 219    1 113    1 387      834      549
+Guerrero                        31 479     2 370      1 736     1 615   2 119    3 198       2 903   2 777    2 075    2 018    3 839    4 549    2 280
+Hidalgo                             95         2          3         4      11       14          13      10       14        6       11        4        3
+Jalisco                         27 534     1 915      1 572     1 821   2 515    3 542       2 749   2 677    2 122    2 080    3 036    1 968    1 537
+México                           5 580       260        269       267     433      797         551     451      386      421      715      619      411
+Michoacán                       17 289     1 269        953     1 035   1 373    2 099       1 676   1 708    1 318    1 277    1 833    1 525    1 223
+Morelos                         17 206       901        919     1 093   1 693    2 235       1 689   1 512    1 251    1 271    1 949    1 596    1 097
+Nayarit                          8 804       552        349       495     531      629         974   1 160      798      718    1 142      919      537
+Nuevo León                          68         0          1         3       8        9          16      11       10        4        5        0        1
+Oaxaca                           2 472       158        156       177     217      269         234     229      162      171      261      227      211
+Puebla                           6 495       513        522       535     626      734         544     580      441      406      625      660      309
+Querétaro                        2 616       164        149       174     239      365         280     273      210      203      265      164      130
+Quintana Roo                        49         5          2         5       2        2           4       9        3        6        5        4        2
+San Luis Potosí                    141         6          6         6      10       14          15      28       22       13       11        8        2
+Sinaloa                          4 445       248        163       154     196      336         375     530      506      587      694      414      242
+Sonora                           2 360        71         47        89     144      397         432     384      273      227      185       73       38
+Tabasco                             18         0          4         1       3        3           1       1        1        1        2        1        0
+Tamaulipas                         201         5         10        16      22       28          28      34       23       11       12        8        4
+Tlaxcala                            23         1          0         1       1        6           0       4        3        2        1        2        2
+Veracruz                           107         4         13        10      15       10           3      17       10        1       13        6        5
+Yucatán                             15         0          1         1       4        0           2       0        1        3        2        0        1
+Zacatecas                        2 068        71         85       122     177      272         238     264      175      174      215      171      104
+TOTAL GLOBAL                   157 117     9 986      8 417     9 458   13 122   18 890     15 796   15 638   12 197   11 939   17 670   14 632   9 372
+FUENTE: SUIVE/DGE/Secretaría de Salud/Estados Unidos Mexicanos 2013
+

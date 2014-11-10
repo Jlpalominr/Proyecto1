@@ -1,0 +1,46 @@
+                                                                                          Casos registrados en el Sistema de Notificación Semanal
+                                                                          Casos probables de Intoxicación por picadura de alacrán (T63.2, X22) por grupos de edad
+                                                                                                      Estados Unidos Mexicanos 2010
+                                                                                                            Población Masculina
+                                                                                                                                                     Grupos de edad
+             Estado                      <1                1-4                5-9               10 - 14            15 - 19            20 - 24            25 - 44             45 - 49            50 - 59      60 - 64   65 y +   Ign.    Total
+Aguascalientes                            2                  74                112                137                153                102                244                  40                 64          27         71      0     1 026
+Baja California                           0                  5                  10                 10                 2                  12                 7                   4                  9            0         3       0       62
+Baja California Sur                       0                  2                  2                  6                  5                  4                  10                  0                  2            1         0       0       32
+Campeche                                  0                  1                  1                  3                  6                  3                  8                   1                  3            1         4       1       32
+Coahuila                                  0                  7                  15                 10                 7                  12                 46                  1                  9            0         0       1      108
+Colima                                    17                313                401                531                701                728               1 838                323                486          204       374     12     5 928
+Chiapas                                   2                  11                 9                  10                 14                 13                 33                  7                  15           3         14      0      131
+Chihuahua                                 3                  25                 19                 20                 14                 22                 46                  7                  18           1         9       0      184
+Distrito Federal                          0                  23                 26                 24                 32                 18                 69                  16                 15           5         6       0      234
+Durango                                   17                226                315                398                416                420                985                 176                219          99        177      0     3 448
+Guanajuato                                80               1 199              1 556              1 856              1 851              1 306              3 254                531                696          265       633      0    13 227
+Guerrero                                 182               2 179              2 847              3 352              3 000              2 067              5 149               1 005              1 498         615      1 505    28    23 427
+Hidalgo                                   1                  3                  6                  8                  6                  7                  19                  5                  6            1         6       0       68
+Jalisco                                  169               2 165              2 662              3 150              3 190              2 838              7 047               1 169              1 706         733      1 706    46    26 581
+México                                    30                505                580                602                555                330                745                 152                194          74        191      6     3 964
+Michoacán                                231               1 566              1 763              2 022              1 923              1 582              3 777                671                946          398       935     20    15 834
+Morelos                                   69               1 270              1 686              1 830              1 855              1 410              3 587                839               1 224         404      1 003    43    15 220
+Nayarit                                   43                518                603                799                941                814               2 058                443                512          250       500      2     7 483
+Nuevo León                                1                  7                  5                  8                  5                  10                 30                  3                  8            0         1       0       78
+Oaxaca                                    24                207                254                297                300                219                489                 113                162          67        238      1     2 371
+Puebla                                    32                606                797                904                963                685               1 577                368                576          247       645     32     7 432
+Querétaro                                 16                130                173                252                238                228                762                 106                138          39        112      0     2 194
+Quintana Roo                              1                  8                  6                  7                  7                  9                  25                  5                  2            1         2       0       73
+San Luis Potosí                           1                  11                 6                  4                  9                  12                 13                  7                  10           2         9       0       84
+Sinaloa                                   21                315                365                469                447                376                989                 225                331          161       289      1     3 989
+Sonora                                    23                245                247                191                169                151                370                  84                111          44         78      1     1 714
+Tabasco                                   0                  0                  1                  3                  0                  3                  5                   2                  1            1         0       0       16
+Tamaulipas                                3                  14                 13                 8                  8                  9                  32                  5                  7            0         4       0      103
+Tlaxcala                                  0                  1                  3                  5                  8                  1                  6                   1                  1            1         1       0       28
+Veracruz                                  1                  8                  9                  7                  15                 10                 32                  4                  6            5         10      0      107
+Yucatán                                   0                  4                  7                  1                  2                  1                  5                   5                  2            1         1       0       29
+Zacatecas                                 6                 137                164                198                236                181                444                  80                124          61        170      5     1 806
+T OTAL GLOBAL                            975              11 785             14 663             17 122             17 078              13 583             33 701              6 398              9 101       3 711     8 697    199    137 013
+FUENTE: SINAVE/DGE/Salud/Sistema de notificación semanal de casos nuevos/Acceso al cierre de 2010
+A/N= Ausencia de notificación
+N.A.= No aplica para este grupo de edad
+Nota:
+El cierre del sistema de notificación semanal corresponde a los casos que se registraron como sospecha diagnóstica en apego al criterio del médico tratante que otorga consulta de primera vez. El sistema
+no realiza seguimiento para confirmación o descarte y refleja la intensidad con la que se buscan los casos.
+

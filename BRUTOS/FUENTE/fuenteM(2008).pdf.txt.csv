@@ -1,0 +1,33 @@
+Estado,SALUD,IMSS-ORD,ISSSTE,IMSS-OP,DIF,PEMEX,SEDENA,SEMAR,Otras,Total
+Aguascalientes,990,10,0,N.A.,0,N.A.,0,N.A.,0,1000
+Baja California,11,32,0,1,N.A.,N.A.,0,0,25,69
+Baja California Sur,34,11,7,N.A.,N.A.,N.A.,1,1,N.A.,54
+Campeche,47,8,7,1,0,0,0,0,1,64
+Coahuila,33,33,1,2,0,N.A.,0,N.A.,8,77
+Colima,4136,1285,43,N.A.,0,N.A.,5,49,70,5588
+Chiapas,97,25,13,26,N.A.,0,0,5,3,169
+Chihuahua,67,45,4,64,N.A.,N.A.,0,N.A.,9,189
+Distrito Federal,162,17,19,0,0,0,5,0,9,212
+Durango,2479,51,1,483,0,N.A.,2,N.A.,4,3020
+Guanajuato,7100,2917,166,1,N.A.,17,22,N.A.,3188,13411
+Guerrero,16926,2148,529,2,N.A.,N.A.,30,8,N.A.,19643
+Hidalgo,94,0,0,6,0,0,0,N.A.,3,103
+Jalisco,19582,5268,57,2,0,0,13,2,2356,27280
+México,3755,25,4,1,1,N.A.,2,N.A.,167,3955
+Michoacán,8141,2615,390,3660,N.A.,N.A.,23,1,N.A.,14830
+Morelos,11946,2858,500,7,N.A.,N.A.,73,N.A.,N.A.,15384
+Nayarit,5242,776,74,2106,19,N.A.,17,0,14,8248
+Nuevo León,26,55,0,0,N.A.,0,0,N.A.,18,99
+Oaxaca,1588,46,67,784,3,3,5,13,7,2516
+Puebla,4902,440,40,1836,0,0,1,N.A.,15,7234
+Querétaro,550,1241,31,0,1,N.A.,0,N.A.,36,1859
+Quintana Roo,12,17,2,N.A.,N.A.,N.A.,0,0,N.A.,31
+San Luis Potosí,36,47,1,26,N.A.,0,0,N.A.,4,114
+Sinaloa,1727,629,73,1013,4,1,19,7,352,3825
+Sonora,1128,401,22,0,N.A.,N.A.,4,0,101,1656
+Tabasco,8,11,0,N.A.,N.A.,0,1,0,0,20
+Tamaulipas,58,39,5,9,1,2,0,0,11,125
+Tlaxcala,18,3,0,0,0,N.A.,0,N.A.,0,21
+Veracruz,53,27,2,11,0,0,0,0,N.A.,93
+Yucatán,1,16,0,12,0,N.A.,0,0,0,29
+Zacatecas,1375,45,5,514,0,N.A.,22,N.A.,1,1962
